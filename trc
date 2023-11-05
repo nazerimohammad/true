@@ -1,7 +1,7 @@
 9-9-9-9-9
 for github
 
-
+tu
 sudo apt update && sudo apt upgra
 ---------------------------------------------
 sudo apt install curl tar wget clang pkg-config libssl-dev jq build-essential bsdmainutils git make ncdu -y
